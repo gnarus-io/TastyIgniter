@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => 'TastyIgniter',
+    'name' => 'Alechi Portuguese Grill',
 
     /*
     |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost/',
+    'url' => 'http://localhost:8001/',
 
     /*
     |--------------------------------------------------------------------------
@@ -104,7 +104,7 @@ return [
     |
     */
 
-    'key' => 'CHANGE!!!!!!!!!!!!!!!!!!!!!!!!!',
+    'key' => 'base64:ZRcIeY3PioqFgPJ9oy90zJf2dNPn5ZbQwTkD168+Jb0=',
 
     'cipher' => 'AES-256-CBC',
 
